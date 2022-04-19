@@ -1,7 +1,7 @@
 
 # Hello World, I'm Robert  👋
 
- <img align="right" alt="GIF" src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="480" height="480"/>
+ <img align="right" alt="GIF" src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5.gif" width="480" height="480"/>
 
 ## I'm an aspiring Data Scientist !!
 - 🔭 I’m currently studying Data Theory and Statistics at UCLA
