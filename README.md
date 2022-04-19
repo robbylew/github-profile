@@ -1,7 +1,7 @@
 
 # Hello World, I'm Robert  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="480" height="480"/>
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320"/>
 
 ## I'm an aspiring Data Scientist !!
 - 🔭 I’m currently studying Data Theory and Statistics at UCLA
