@@ -1,7 +1,6 @@
 # Hello World, I'm Robert  👋
 
- <img align="right" alt="GIF" src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="500" height="320" />
-
+<iframe src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5">via GIPHY</a></p>
 
 ## I'm an aspiring Data Scientist !!
 - 🔭 I’m currently studying Data Theory and Statistics at UCLA
