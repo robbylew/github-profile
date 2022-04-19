@@ -1,6 +1,6 @@
 # Hello World, I'm Robert  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="500" height="320" />
 
 
 ## I'm an aspiring Data Scientist !!
