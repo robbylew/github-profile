@@ -9,11 +9,9 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
 
-<br />
-
 ### 🛠 &nbsp;Tech Stack
   
-![reactjs](https://img.shields.io/badge/-ReactJS-0078D6?style=for-the-badge&logo=ReactJS&logoColor=white)&nbsp; 
+![reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp; 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![mac](https://img.shields.io/badge/-mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
