@@ -13,7 +13,7 @@
 
 ### 🛠 &nbsp;Tech Stack
   
-![windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp; 
+![reactjs](https://img.shields.io/badge/-ReactJS-0078D6?style=for-the-badge&logo=ReactJS&logoColor=white)&nbsp; 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![mac](https://img.shields.io/badge/-mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
