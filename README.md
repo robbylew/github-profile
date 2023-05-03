@@ -1,6 +1,5 @@
 ![](./src/wallpaper.png)
 
-
 ## Hello World 
 
 👋 Hi, I'm Robby, a UCLA graduate with a degree in Statistics and Data Science, and a minor in Data Science Engineering. As a full-stack developer and data enthusiast, I'm passionate about building scalable, user-friendly applications that create a positive impact. My academic background and hands-on experience in full-stack development have equipped me with the skills to tackle complex problems and develop versatile solutions.
@@ -19,6 +18,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ---
