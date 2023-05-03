@@ -3,9 +3,9 @@
 
 ## Hello World 
 
-👋 Hey there! I'm Robby, a recent graduate from the University of California, Los Angeles (UCLA) with a Bachelor's degree in Statistics & Data Science. As a full-stack developer and data enthusiast, I'm passionate about leveraging the power of data to build scalable, user-friendly applications that make a positive impact. At UCLA, I gained a solid foundation in both theoretical and applied statistics, machine learning, and data analysis techniques. This academic background, combined with my hands-on experience in full-stack development, has allowed me to create versatile and robust applications that solve complex problems.
+👋 Hi, I'm Robby, a UCLA graduate with a degree in Statistics and Data Science, and a minor in Data Science Engineering. As a full-stack developer and data enthusiast, I'm passionate about building scalable, user-friendly applications that create a positive impact. My academic background and hands-on experience in full-stack development have equipped me with the skills to tackle complex problems and develop versatile solutions.
 
-💻 My technical expertise includes proficiency in a wide range of programming languages, frameworks, and tools such as Python, JavaScript, React, Node.js, and Django. I'm also comfortable working with databases, cloud services, and various data visualization libraries to build end-to-end solutions. I'm always eager to learn and keep up with the latest industry trends, making sure to stay up-to-date with emerging technologies and best practices. In my GitHub repositories, you'll find a variety of projects that showcase my skills in full-stack development and data science. Feel free to explore, contribute, or get in touch if you have any questions or are interested in collaborating on a project.
+💻 My technical expertise is centered around the MERN stack (MongoDB, Express, React, and Node.js), along with proficiency in Python, data visualization libraries, and cloud services. I'm dedicated to staying up-to-date with emerging technologies and industry best practices. In my GitHub repositories, you'll find a range of projects that showcase my skills in full-stack development and data science. Feel free to explore, contribute, or reach out for collaboration or inquiries.
 
 
 ### 🤝🏻 &nbsp; Connect with me:
