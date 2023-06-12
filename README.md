@@ -2,9 +2,7 @@
 
 ## Hello World 
 
-👋 Hi, I'm Robby, a UCLA graduate with a degree in Statistics and Data Science, and a minor in Data Science Engineering. As a full-stack developer and data enthusiast, I'm passionate about building scalable, user-friendly applications that create a positive impact. My academic background and hands-on experience in full-stack development have equipped me with the skills to tackle complex problems and develop versatile solutions.
-
-💻 My technical expertise is centered around the MERN stack (MongoDB, Express, React, and Node.js), along with proficiency in Python, data visualization libraries, and cloud services. I'm dedicated to staying up-to-date with emerging technologies and industry best practices. In my GitHub repositories, you'll find a range of projects that showcase my skills in full-stack development and data science. Feel free to explore, contribute, or reach out for collaboration or inquiries.
+👋 Hello World! I'm Robby, a proud UCLA graduate where I majored in Statistics and minored in Data Engineering. I'm fascinated by the way data can shape and transform our world. My passion lies in exploring the endless possibilities that machine learning and AI offer. I've been lucky enough to dive headfirst into this world, consistently learning, experimenting and pushing boundaries. Aside from my data-centric pursuits, I also love getting my hands dirty with full-stack development. The thrill of building, testing, and deploying a fully functional application from scratch is something that always excites me. A forever student in this rapidly evolving tech landscape!
 
 
 ### 🤝🏻 &nbsp; Connect with me:
