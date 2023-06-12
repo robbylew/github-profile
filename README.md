@@ -33,4 +33,4 @@
 
 [linkedin]: https://www.linkedin.com/in/robbylewis/
 [instagram]: https://www.instagram.com/robbylew
-[twitter]: https://twitter.com/robbertlewis
+[twitter]: https://twitter.com/robbythedev
