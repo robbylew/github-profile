@@ -2,9 +2,6 @@
 
 ## Hello World 
 
-👋 Hello World! I'm Robby, a proud UCLA graduate where I majored in Statistics and minored in Data Engineering. I'm fascinated by the way data can shape and transform our world. My passion lies in exploring the endless possibilities that machine learning and AI offer. I've been lucky enough to dive headfirst into this world, consistently learning, experimenting and pushing boundaries. Aside from my data-centric pursuits, I also love getting my hands dirty with full-stack development. The thrill of building, testing, and deploying a fully functional application from scratch is something that always excites me. A forever student in this rapidly evolving tech landscape!
-
-
 ### 🤝🏻 &nbsp; Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
