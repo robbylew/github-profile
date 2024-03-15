@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
-[<img src="https://img.shields.io/badge/My%20Portfolio-20B2AA?style=for-the-badge&logo=website"/>][portfolio]
+[<img src="https://img.shields.io/badge/My%20Portfolio-FFE599?style=for-the-badge&logo=ghostery"/>][portfolio]
 
 ### 🛠 &nbsp;Tech Stack
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
